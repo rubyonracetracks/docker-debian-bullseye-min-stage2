@@ -5,7 +5,7 @@
 # as succeeding in spite of errors or failures.
 set -eo pipefail
 
-export ABBREV='min-stage1'
+export ABBREV='min-stage2'
 export OWNER='rubyonracetracks'
 export DISTRO='debian'
 export SUITE='bullseye'
