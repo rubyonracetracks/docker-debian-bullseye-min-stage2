@@ -8,7 +8,7 @@ This repository is used for building the Stage 2 Minimal Debian Bullseye Docker 
 [ghcr.io/rubyonracetracks/docker-debian-bullseye-min-stage2](https://github.com/rubyonracetracks/docker-debian-bullseye-min-stage2/pkgs/container/docker-debian-bullseye-min-stage2)
 
 ## Upstream Docker Image
-[ghcr.io/rubyonracetracks/docker-debian-bullseye-min-stage1](https://github.com/rubyonracetracks/docker-debian-bullseye-min-stage2/pkgs/container/docker-debian-bullseye-min-stage1)
+[ghcr.io/rubyonracetracks/docker-debian-bullseye-min-stage1](https://github.com/rubyonracetracks/docker-debian-bullseye-min-stage1/pkgs/container/docker-debian-bullseye-min-stage1)
 
 ## What's Added
 * Git
