@@ -6,6 +6,7 @@
 set -eo pipefail
 
 export ABBREV='min-stage2'
+export ABBREV_UPSTREAM='min-stage1'
 export OWNER='rubyonracetracks'
 export DISTRO='debian'
 export SUITE='bullseye'
