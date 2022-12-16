@@ -26,4 +26,4 @@ Ruby version managers, such as RVM
 * Software for managing Ruby versions (such as RVM) is NOT included in this Docker image.  (This is covered in downstream Docker images.)
 
 ## More Information
-General information common to all Docker Debian build repositories is in the [FAQ](https://gitlab.com/rubyonracetracks/docker-common/blob/master/FAQ.md).
+General information common to all Docker Debian build repositories is in the [FAQ](https://github.com/rubyonracetracks/docker-common/blob/main/FAQ.md).
